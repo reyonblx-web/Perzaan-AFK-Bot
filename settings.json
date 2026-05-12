@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "watermccc.aternos.me",
+    "port": 50034,
     "version": "1.21.1"
   },
   "position": {
